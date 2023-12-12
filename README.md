@@ -2,17 +2,6 @@
 
 A console-based application for managing student and teacher information in a departmental setting.
 
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Screenshots of Instructions](#screenshots-of-instructions)
-  - [Admin Panel](#admin-panel)
-  - [Teacher Panel](#teacher-panel)
-  - [Student Panel](#student-panel)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
 ## Description
 
 This C-based application is designed to help manage student and teacher information within a department. It provides functionality for administrators, teachers, and students to interact with the system to perform tasks such as managing courses, adding teachers and students, providing marks, searching for students, and more.
@@ -130,6 +119,10 @@ This C-based application is designed to help manage student and teacher informat
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Contact
+
+I'm here to assist you on your journey with the Department Management System. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
 
 ## Author
 
